@@ -1,0 +1,12 @@
+{
+  "name": "connect-four-ml",
+  "version": "1.0.0",
+  "description": "go project implement machine learning to play connect four",
+  "main": "src/main.go",
+  "scripts": {
+    "build": "go build -o ./bin/connect-four-ml ./src",
+    "start": "go run ./src"
+  },
+  "author": "<julienbongars23@gmail.com>",
+  "license": "MIT"
+}
