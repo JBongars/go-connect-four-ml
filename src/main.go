@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jbongars/connect-four-ml/src/board"
-	"github.com/jbongars/connect-four-ml/src/opponents"
+	"github.com/jbongars/go-connect-four-ml/src/board"
+	"github.com/jbongars/go-connect-four-ml/src/opponents"
 )
 
 func pvp() {

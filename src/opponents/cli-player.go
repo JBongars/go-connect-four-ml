@@ -3,7 +3,7 @@ package opponents
 import (
 	"fmt"
 
-	"github.com/jbongars/connect-four-ml/src/board"
+	"github.com/jbongars/go-connect-four-ml/src/board"
 )
 
 type CliPlayerOpponent struct {
