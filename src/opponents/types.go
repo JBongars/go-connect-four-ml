@@ -1,6 +1,6 @@
 package opponents
 
-import "github.com/jbongars/go-connect-four-ml/src/board"
+import "github.com/JBongars/go-connect-four-ml/src/board"
 
 type Opponent interface {
 	New(id uint8)
